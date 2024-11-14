@@ -1,292 +1,268 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731624199302 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1731625672448 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624202369 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731625687562 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624205432 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625690630 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624208497 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625693712 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624211562 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625696790 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624214633 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625699864 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624217691 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731625714973 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624220759 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625718039 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624223822 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625721114 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624226887 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625724207 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624229981 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625727299 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624233056 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625730371 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624236123 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731625745492 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624239183 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625748577 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624242241 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625751640 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624245310 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625754731 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624248391 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625757806 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624251524 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625760879 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624254604 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625763959 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624257672 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731625779060 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624260740 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625782132 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624263799 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625785190 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624266866 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625788248 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624269936 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625791330 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624273044 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625794404 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624276135 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731625809529 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624279291 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625812588 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624282359 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625815671 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624285578 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625818746 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624288665 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625821824 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624291940 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625824898 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624295013 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625827966 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624298087 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625831024 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624301156 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625834087 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624304239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625837144 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624307340 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625840208 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624310464 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625843265 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624313531 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625846329 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624316590 tunnel running, 2 tunnels registered
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.26): 1731625861430 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624319646 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625864506 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624322700 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625867581 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
 j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624325775 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
-j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624328861 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
-j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624331924 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
-j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624334988 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
-j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624338063 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
-j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624341123 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
-j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624344209 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-welcome-yea.gl.at.ply.gg:3232 => 127.0.0.1:3232 (proto: Udp, port count: 1)
-j-fluid.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1731624347280 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1731625870650 tunnel running, 2 tunnels registered
 
 
 TUNNELS
